@@ -1,0 +1,63 @@
+{
+    "HOME": {
+        "NAV": "Accueil",
+        "TITLE": "Salut, je suis Bastien Record",
+        "DESCRIPTION": "Je suis étudiant à l'IUT de Blagnac en informatique. J'aime le développement et je suis passionné par les nouvelles technologies."
+    },
+    "EDUCATION": {
+        "NAV": "Formation",
+        "SCHOOL": {
+            "TITLE": "Lycée Vincent Auriol - Revel (31)",
+            "PERIOD": "2020 - 2022",
+            "DESCRIPTION": "BAC STI2D<br>Option SIN"
+        },
+        "UNIVERSITY": {
+            "TITLE": "IUT Blagnac - Université Toulouse 2",
+            "PERIOD": "2022 - 2025",
+            "DESCRIPTION": "BUT Informatique<br>Parcours A"
+        }
+    },
+    "EXPERIENCE": {
+        "NAV": "Expériences",
+        "ALL": [
+            {
+                "TITLE": "Stage développement d'une API - SPIX Industry<br>Labège (31)",
+                "PERIOD": "2024 (8 semaines)",
+                "DESCRIPTION": "Écriture de programmes d'exemples pour l'utilisation de l'API SPIX (assitant vocal)"
+            }
+        ]
+    },
+    "PROJECTS": {
+        "NAV": "Projets",
+        "ALL": [
+            {
+                "TITLE": "Développement d'une application permettant de contrôler un robot",
+                "PERIOD": "2022 (1 mois) - individuel",
+                "DESCRIPTION": "SDK Android<br>Arduino/C++<br>Cahier de charges fonctionnel"
+            },
+            {
+                "TITLE": "Développement d'une application de gestion d'une agence bancaire",
+                "PERIOD": "2023 (1 mois) - équipe de 3 personnes",
+                "DESCRIPTION": "Java<br>JavaFX<br>SQL"
+            },
+            {
+                "TITLE": "Développement d'une application web de gestion de routines de fitness",
+                "PERIOD": "2024 (1 semaine) - individuel",
+                "DESCRIPTION": "Node.js<br>Angular<br>TypeScript"
+            },
+            {
+                "TITLE": "Développement d'une application web de gestion d'emploi du temps - FlOpEdt",
+                "PERIOD": "2024 (1 mois) - 2 personnes",
+                "DESCRIPTION": "VueJS<br>Django<br>JavaScript"
+            }
+        ]
+    },
+    "ABOUT": {
+        "NAV": "À propos",
+        "NAME": "Bastien Record",
+        "DESCRIPTION": "Je suis actuellement en troisième année à l'IUT de Blagnac, où je me spécialise en développement web et logiciel. Mon objectif professionnel est de devenir développeur, avec une passion particulière pour les technologies innovantes et la création d'outils interactifs.<br><br>En dehors de l'informatique, le sport occupe une place importante dans ma vie. J'ai pratiqué le basket pendant 9 ans, et j'ai eu l'opportunité de transmettre ma passion en tant que coach pendant 2 ans. À la suite d'une blessure, j'ai dû arrêter le basket, mais j'ai trouvé un autre moyen de rester actif en me consacrant à la culture physique. Cette pratique m'aide à maintenir un équilibre entre mon bien-être physique et mental, tout en poursuivant mes objectifs professionnels."
+    },
+    "CONTACT": {
+        "NAV": "Contact"
+    }
+}

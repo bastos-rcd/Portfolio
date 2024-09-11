@@ -1,0 +1,42 @@
+<ul class="bg-info-subtle py-2 fixed-top list-inline d-flex justify-content-around flex-wrap">
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#home">
+            <i class="fa-solid fa-house"></i>
+            {{ i18n.HOME.NAV }}</a>
+    </li>
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#education">
+            <i class="fa-solid fa-graduation-cap"></i>
+            {{ i18n.EDUCATION.NAV }}
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#experience">
+            <i class="fa-solid fa-building"></i>
+            {{ i18n.EXPERIENCE.NAV }}
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#projects">
+            <i class="fa-solid fa-folder-open"></i>
+            {{ i18n.PROJECTS.NAV }}
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#about">
+            <i class="fa-solid fa-user"></i>
+            {{ i18n.ABOUT.NAV }}
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <a class="btn btn-light m-1" href="#contact">
+            <i class="fa-solid fa-address-book"></i>
+            {{ i18n.CONTACT.NAV }}
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <button type="button" class="btn btn-light m-1" (click)="onButtonClick()">
+            <i class="fa-solid fa-language fa-2xl"></i>
+        </button>
+    </li>
+</ul>

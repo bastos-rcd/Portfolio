@@ -1,0 +1,63 @@
+{
+    "HOME": {
+        "NAV": "Home",
+        "TITLE": "Hi, I'm Bastien Record",
+        "DESCRIPTION": "I'm a student at the IUT of Blagnac in computer science. I love development and I'm passionate about new technologies."
+    },
+    "EDUCATION": {
+        "NAV": "Education",
+        "SCHOOL": {
+            "TITLE": "Lycée Vincent Auriol - Revel (31)",
+            "PERIOD": "2020 - 2022",
+            "DESCRIPTION": "STI2D High School Diploma<br>SIN Option"
+        },
+        "UNIVERSITY": {
+            "TITLE": "IUT Blagnac - University Toulouse 2",
+            "PERIOD": "2022 - 2025",
+            "DESCRIPTION": "Bachelor's in IT<br>Track A"
+        }
+    },
+    "EXPERIENCE": {
+        "NAV": "Experiences",
+        "ALL": [
+            {
+                "TITLE": "Internship - API development at SPIX Industry<br>Labège (31)",
+                "PERIOD": "2024 (8 weeks)",
+                "DESCRIPTION": "Writing example programs for using the SPIX API (voice assistant)"
+            }
+        ]
+    },
+    "PROJECTS": {
+        "NAV": "Projects",
+        "ALL": [
+            {
+                "TITLE": "Development of an application to control a robot",
+                "PERIOD": "2022 (1 month) - individual",
+                "DESCRIPTION": "Android SDK<br>Arduino/C++<br>Functional requirements"
+            },
+            {
+                "TITLE": "Development of a banking agency management application",
+                "PERIOD": "2023 (1 month) - team of 3 people",
+                "DESCRIPTION": "Java<br>JavaFX<br>SQL"
+            },
+            {
+                "TITLE": "Development of a fitness routine management web application",
+                "PERIOD": "2024 (1 week) - individual",
+                "DESCRIPTION": "Node.js<br>Angular<br>TypeScript"
+            },
+            {
+                "TITLE": "Development of a timetable management web application - FlOpEdt",
+                "PERIOD": "2024 (1 month) - 2 people",
+                "DESCRIPTION": "VueJS<br>Django<br>JavaScript"
+            }
+        ]
+    },
+    "ABOUT": {
+        "NAV": "About me",
+        "NAME": "Bastien Record",
+        "DESCRIPTION": "I am currently in my third year at the IUT of Blagnac, where I am specializing in web and software development. My professional goal is to become a developer, with a particular passion for innovative technologies and creating interactive tools.<br><br>Outside of IT, sports play an important role in my life. I played basketball for 9 years and had the opportunity to share my passion as a coach for 2 years. After a sports injury, I had to stop playing basketball, but I found another way to stay active by focusing on physical training. This practice helps me maintain a balance between my physical and mental well-being while pursuing my professional goals."
+    },
+    "CONTACT": {
+        "NAV": "Contact"
+    }
+}
